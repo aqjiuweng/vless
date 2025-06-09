@@ -1,4 +1,4 @@
-# Generated On: Sunday, 08 June 2025, 21:44 Tehran (UTC+3:30).
+# Generated On: Monday, 09 June 2025, 04:28 Tehran (UTC+3:30).
 
 > [!CAUTION]
 > Triggered by: schedule
@@ -12,16 +12,16 @@
 > Each code is valid for login on only one device.
 
 ```ruby
-LHZBC1RFXS
-NLISNAFXBV
-VNE7NOEZEP
-VYFS6YM1E7
-CUROH13JGL
-D3THY89BXZ
-OPD5OITVXI
-2CE7ATUYYB
-PI0605OQ2N
-AHU0IQTGU4
+VV0393UCOI
+ETP3SI8UBK
+WC4N0DBFTR
+CMAT94MSOZ
+0H25H7UEAY
+8Y734UPLW5
+29ZMZHO03L
+4X9YANIZTP
+0F0GTY7QQM
+XXYZLGLBM0
 ```
 
 <br>
@@ -29,11 +29,11 @@ AHU0IQTGU4
 ### ESET SECURITY LICENSE
 
 **Name:** ESET Small Business Security
-**Expiry:** 08.07.2025
+**Expiry:** 09.07.2025
 **License Key:**
 
 ```POV-Ray SDL
-4NGD-XMNC-F6N5-KCM4-S2C4
+B8HS-X5DJ-XBN6-WJD3-DXKH
 ```
 
 <br>
@@ -43,110 +43,16 @@ AHU0IQTGU4
 **Email:**
 
 ```CSS
-maddin.zayed@fsitip.com
+jerald.naphtali@fsitip.com
 ```
 
 **Password:**
 
 ```POV-Ray SDL
-.GU4mKO,=Y0c%3
+Lup4+Y8bF-GDpPc
 ```
 
 <br>
-
-### All about ESET VPN
-
-[READ HERE](https://t.me/F_NiREvil/2113)
-
----
-
-<br><br>
-
-# Generated On: Sunday, 08 June 2025, 15:49 Tehran (UTC+3:30).
-
-> [!CAUTION]
-> Triggered by: schedule
-
-<br><br>
-
-### ESET VPN ACCESS CODES
-
-> [!NOTE]
-> The access codes for ESET VPN will expire in 24 hours.
-> Each code is valid for login on only one device.
-
-```ruby
-HU61AGWERR
-ZSZHZ8S2D4
-G3YM6OO84K
-MIFFHJR63N
-GP3E935YTZ
-1V8RJP5RBF
-7U4LFNKZM1
-ES5SRFXMUB
-LFKOVWF8QD
-Q7M0RKDFY1
-```
-
-<br>
-
-### ESET SECURITY LICENSE
-
-**Name:** ESET Small Business Security
-**Expiry:** 08.07.2025
-**License Key:**
-
-```POV-Ray SDL
-JFDM-X6K5-DB4M-467N-PUA3
-```
-
-<br>
-
-### ESET ACCOUNT
-
-**Email:**
-
-```CSS
-andersson.iliya@fsitip.com
-```
-
-**Password:**
-
-```POV-Ray SDL
-8L:0R8Obn07mD
-```
-
-<br>
-
-### All about ESET VPN
-
-[READ HERE](https://t.me/F_NiREvil/2113)
-
----
-
-<br><br>
-
-# Generated On: Sunday, 08 June 2025, 09:46 Tehran (UTC+3:30).
-
-> [!CAUTION]
-> Triggered by: schedule
-
-<br><br>
-
-### All about ESET VPN
-
-[READ HERE](https://t.me/F_NiREvil/2113)
-
----
-
-<br><br>
-
-# Generated On: Sunday, 08 June 2025, 04:31 Tehran (UTC+3:30).
-
-> [!CAUTION]
-> Triggered by: schedule
-
-<br><br>
 
 ### All about ESET VPN
 
