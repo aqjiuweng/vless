@@ -1,49 +1,4 @@
-# Generated On: Tuesday, 10 June 2025, 21:45 Tehran (UTC+3:30).
-
-> [!CAUTION]
-> Triggered by: schedule
-
-<br><br>
-
-### All about ESET VPN
-
-[READ HERE](https://t.me/F_NiREvil/2113)
-
----
-
-<br><br>
-
-# Generated On: Tuesday, 10 June 2025, 15:52 Tehran (UTC+3:30).
-
-> [!CAUTION]
-> Triggered by: schedule
-
-<br><br>
-
-### All about ESET VPN
-
-[READ HERE](https://t.me/F_NiREvil/2113)
-
----
-
-<br><br>
-
-# Generated On: Tuesday, 10 June 2025, 09:49 Tehran (UTC+3:30).
-
-> [!CAUTION]
-> Triggered by: schedule
-
-<br><br>
-
-### All about ESET VPN
-
-[READ HERE](https://t.me/F_NiREvil/2113)
-
----
-
-<br><br>
-
-# Generated On: Tuesday, 10 June 2025, 04:26 Tehran (UTC+3:30).
+# Generated On: Wednesday, 11 June 2025, 04:26 Tehran (UTC+3:30).
 
 > [!CAUTION]
 > Triggered by: schedule
@@ -57,16 +12,16 @@
 > Each code is valid for login on only one device.
 
 ```ruby
-Y5JT495P87
-AOZJWOXVBW
-6FBA5Y94TV
-0N8DLICCHZ
-UMRNZUKKGM
-AE2HYNHL86
-Z5D90OF79U
-KB2HC4GLUG
-DVD13GXKRA
-60T0G8W6DO
+7PHNQCM8L3
+KQRILFE86E
+DSNCDZUGMQ
+WCTNHSGOB1
+22AXUSPRGZ
+TEM5K7AXMU
+UC5GPLHGGM
+ZBX70BKG60
+4YJ5XFJX31
+0H5ZSP9XHR
 ```
 
 <br>
@@ -74,11 +29,11 @@ DVD13GXKRA
 ### ESET SECURITY LICENSE
 
 **Name:** ESET Small Business Security
-**Expiry:** 10.07.2025
+**Expiry:** 11/07/2025
 **License Key:**
 
 ```POV-Ray SDL
-H9CM-XT4G-A9WF-WUXR-99BH
+9BHF-X3AN-34DX-X9SK-UW3V
 ```
 
 <br>
@@ -88,13 +43,13 @@ H9CM-XT4G-A9WF-WUXR-99BH
 **Email:**
 
 ```CSS
-warren.clark@fsitip.com
+tallyn.ozan@fsitip.com
 ```
 
 **Password:**
 
 ```POV-Ray SDL
-mz\Yk:q?Y$Uj57v?f
+D!uGHUe|[D#YwV"8X[j3D
 ```
 
 <br>
