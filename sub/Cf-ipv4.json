@@ -100,53 +100,53 @@
         "time": "2025-10-01 02:15:09"
     },
     {
-        "colo": "NRT",
-        "ip": "198.41.214.177",
-        "latency": 56,
-        "line": "CU",
-        "loss": 0,
-        "node": "KXY_BJCU",
-        "speed": 1525,
-        "time": "2025-10-01 02:12:55"
-    },
-    {
         "colo": "LHR",
-        "ip": "172.67.236.1",
+        "ip": "172.67.209.217",
         "latency": 142,
         "line": "CU",
         "loss": 0,
         "node": "KXY_BJCU",
+        "speed": 1535,
+        "time": "2025-10-01 09:02:55"
+    },
+    {
+        "colo": "NRT",
+        "ip": "198.41.214.169",
+        "latency": 55,
+        "line": "CU",
+        "loss": 0,
+        "node": "KXY_BJCU",
         "speed": 1525,
-        "time": "2025-10-01 02:12:55"
-    },
-    {
-        "colo": "NRT",
-        "ip": "162.159.247.146",
-        "latency": 56,
-        "line": "CU",
-        "loss": 0,
-        "node": "KXY_BJCU",
-        "speed": 290,
-        "time": "2025-10-01 02:22:59"
-    },
-    {
-        "colo": "NRT",
-        "ip": "162.159.136.228",
-        "latency": 56,
-        "line": "CU",
-        "loss": 0,
-        "node": "KXY_BJCU",
-        "speed": 285,
-        "time": "2025-10-01 02:12:59"
+        "time": "2025-10-01 09:12:56"
     },
     {
         "colo": "LHR",
-        "ip": "172.67.178.116",
+        "ip": "172.67.255.126",
+        "latency": 143,
+        "line": "CU",
+        "loss": 0,
+        "node": "KXY_BJCU",
+        "speed": 900,
+        "time": "2025-10-01 09:12:57"
+    },
+    {
+        "colo": "LHR",
+        "ip": "172.67.171.214",
         "latency": 142,
         "line": "CU",
         "loss": 0,
         "node": "KXY_BJCU",
-        "speed": 260,
-        "time": "2025-10-01 02:23:00"
+        "speed": 725,
+        "time": "2025-10-01 09:02:56"
+    },
+    {
+        "colo": "LHR",
+        "ip": "172.67.203.75",
+        "latency": 143,
+        "line": "CU",
+        "loss": 0,
+        "node": "KXY_BJCU",
+        "speed": 315,
+        "time": "2025-10-01 09:22:59"
     }
 ]
